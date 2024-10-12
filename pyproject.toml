@@ -1,0 +1,11 @@
+[project]
+name = "plotnine-tutorial-pydata-nyc-2024"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "great-tables>=0.13.0",
+    "plotnine>=0.13.6",
+    "polars[numpy,pandas,pyarrow]>=1.9.0",
+]
