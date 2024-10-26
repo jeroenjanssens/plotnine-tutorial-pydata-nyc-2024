@@ -1753,7 +1753,7 @@ requires-dist = [
     { name = "great-tables", specifier = ">=0.13.0" },
     { name = "jupyterlab", specifier = ">=4.2.5" },
     { name = "plotnine", extras = ["all"], specifier = ">=0.13.6" },
-    { name = "polars", extras = ["numpy", "pandas", "pyarrow"], specifier = ">=1.9.0" },
+    { name = "polars", extras = ["numpy", "pandas", "pyarrow"], specifier = ">=1.11.0" },
 ]
 
 [[package]]
