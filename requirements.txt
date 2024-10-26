@@ -1,4 +1,3 @@
-great-tables>=0.13.0
-jupyterlab>=4.2.5
-plotnine[all]>=0.13.6
-polars[numpy,pandas,pyarrow]>=1.11.0
+great-tables
+plotnine[all]
+polars[numpy,pandas,pyarrow]
