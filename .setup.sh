@@ -1,3 +1,8 @@
+# This script is not necessary for students.
+# It contains notes on how the original project was set up,
+# in order to allow students to start right away, without
+# needing to install dependencies.
+
 # note that uv will not be inside student projects,
 # since it is installed outside the project directory
 curl -LsSf https://astral.sh/uv/install.sh | sh
