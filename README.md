@@ -4,6 +4,8 @@
 
 ### Step 1: Join the Posit Cloud workshop space
 
+> ‼️ Note that the invite link for Posit Cloud is currently a placeholder. We'll include the proper link on the day of the workshop.
+
 First, join our Posit Cloud space by clicking the link below:
 
 - https://posit.cloud/spaces/563461/join?access_code=XXXXXXXXXXX
