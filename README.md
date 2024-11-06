@@ -7,11 +7,9 @@ You have two options: (a) use Posit Cloud (where everything is already installed
 
 ### Step 1: Join the Posit Cloud Workshop Space
 
-> ‼️ Note that the invite link for Posit Cloud is currently a placeholder. We'll include the proper link on the day of the workshop.
-
 First, join our Posit Cloud space by clicking the link below:
 
-- https://posit.cloud/spaces/563461/join?access_code=XXXXXXXXXXX
+- https://posit.cloud/spaces/563461/join?access_code=AhY1OPahcAHE0bO3_hyzWodjdktNm3kkmxHg1zb4
 
 The link should bring you to a login page.
 Either log in, or create a new account for free if you don't have one.
