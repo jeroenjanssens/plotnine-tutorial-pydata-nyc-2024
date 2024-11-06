@@ -36,26 +36,19 @@ We recommend using `uv`, but if you prefer to use something else, then that's fi
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-### Step 2: Create Virtual Environment
-
-```
-uv venv -p 3.12
-source .venv/bin/activate
-```
-
-### Step 3: Install Packages
+### Step 2: Set Up Environment
 
 ```
 uv sync
 ```
 
-### Step 4: Run Jupyter Lab
+### Step 3: Run Jupyter Lab
 
 ```
 uv run -- jupyter lab
 ```
 
-### Step 5: Run Example Notebook
+### Step 4: Run Example Notebook
 
 Once you're set up, confirm that everything works by running the notebook _01-goal.ipynb_.
 
