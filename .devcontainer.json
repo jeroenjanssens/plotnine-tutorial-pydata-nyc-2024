@@ -20,7 +20,5 @@
       ]
     }
   },
-  "onCreateCommand": {
-    "prep-python": "python3 -m pip install uv && uv sync && ipython kernel install --name 'python3' --user"
-  }
+  "postCreateCommand": "python3 -m pip install uv && uv sync && ipython kernel install --name 'python3' --user"
 }
